@@ -7,3 +7,5 @@
 - [对 MySQL 中字段进行加解密](Java/对MySQL中字段进行加解密.md)
 
 - [SpringBoot3.2.5集成OpenAPI遇到的问题](Java/SpringBoot3.2.5集成OpenAPI遇到的问题.md)
+
+- [将SpringBoot的jar包启动方式更改为Tomcat的war包启动方式](Java/将SpringBoot的jar包启动方式更改为Tomcat的war包启动方式.md)
